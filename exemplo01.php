@@ -14,5 +14,5 @@ echo 'ABC $nome';
 
 echo "<br>";
 
-echo "ABC $nome";
+echo ABC $nome";
 ?>
